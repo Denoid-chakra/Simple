@@ -1,0 +1,10 @@
+#notfound{
+    height: 100vh;
+    
+    text-align: center;
+    align-items: center;
+    position: sticky;
+    color: red;
+    font-size: x-large ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
